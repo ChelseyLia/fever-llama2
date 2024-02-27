@@ -24,7 +24,7 @@ from sklearn.metrics import (accuracy_score,
                              confusion_matrix)
 from sklearn.model_selection import train_test_split
 
-save_dir = '/home/s1862623/diss/fever/'
+save_dir = '/home/s1862623/diss/fever/fever-llama2/'
 
 train_filename = save_dir+'datasets/v1_train.csv'
 test_filename = save_dir+'datasets/v1_test.csv'
