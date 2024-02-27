@@ -14,4 +14,4 @@ module load python3.9  # Example: Adjust as needed for your setup
 #source /path/to/your/venv/bin/activate  # Adjust the path as needed
 
 # Run your Python script
-python3 /home/s1862623/diss/fever/1.py
+python3 /home/s1862623/diss/fever/fever-llama2/1.py
